@@ -7,7 +7,7 @@ It provides the following functionalities:
 
 ## Authors
 
-- Ramesh Doddi, CTO, iRemote, Inc.
+- Ramesh Doddi, CTO, iRemote, Inc. https://www.iremote.ai/
 
 ## Pre-requisites
 
